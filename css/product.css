@@ -25,6 +25,7 @@
     color: aliceblue;
     margin-left: 8px;
     border-radius: 8px;
+    cursor: pointer;
 
 }
 
@@ -40,6 +41,7 @@
     font-weight: bold;
     margin-top: 5px;
     border-radius: 8px;
+    cursor: pointer;
 }
 #PRODUCT-NAME{
     font-size: 48px;

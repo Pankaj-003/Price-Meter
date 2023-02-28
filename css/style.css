@@ -1,11 +1,11 @@
 @font-face {
     font-family: pankajfont;
-
-    src:url('../font/Legendday\ Regular.ttf')
+    src: url(../font/LEMONMILK-Light.otf);
+ 
 }
 @font-face {
   font-family: pankajBfont;
-  src: url('../font/DESIGNER.otf');
+src: url(../font/Louis\ George\ Cafe\ Bold.ttf);
  
 }
 *{
@@ -22,7 +22,7 @@
    justify-content: center;
    align-items: center;
    /* background: linear-gradient(124deg, rgba(99,34,195,1) 0%, rgba(73,216,254,1) 49%, rgba(253,45,185,1) 100%); */
-  
+  font-family: pankajfont;
 
 }
 .logo-details{
@@ -179,7 +179,7 @@
     padding-left: 70px;
     /* border: 1px solid red; */
     padding-bottom: 100px;
-  
+   font-family: pankajBfont;
     border-bottom: 4px solid rgba(151, 151, 151, 0.8);
   }
   .find-image1{
@@ -259,7 +259,7 @@ font-size: 72px;
     border: 1px solid red; */
     padding: 20px 10px;
     border-bottom: 4px solid rgba(151, 151, 151, 0.8);
- 
+    font-family: pankajBfont;
   }
   .catagorey-link{
     width: 60%;
@@ -305,6 +305,7 @@ font-size: 72px;
     align-items: center;
     padding: 30px;
     /* border: 1px solid red; */
+    font-family: pankajBfont;
   }
   .top-deals-slider1{
     width: 250px;
@@ -403,6 +404,7 @@ font-size: 72px;
     justify-content: center;
     align-items: center;
     padding: 30px;
+    font-family: pankajBfont;
   }
   .product-you-love-section-slider{
     width: 700px;
@@ -425,6 +427,7 @@ font-size: 72px;
       align-items: center;
       /* border: 1px solid red; */
       padding: 30px;
+      font-family: pankajBfont;
     }
     .you-search-before-section-product-img{
       display: flex;
@@ -452,6 +455,7 @@ padding-top: 60px;
 height: 100px;
 border-bottom: 4px solid gray;
 margin-bottom: 60px;
+font-family: pankajBfont;
 }
 .footer-section h1{ 
 float: right;
