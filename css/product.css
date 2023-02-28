@@ -22,9 +22,9 @@
     border: none;
     background-color: rgb(139, 139, 139);
     font-weight: bold;
-    /* text-align: center; */
     color: aliceblue;
     margin-left: 8px;
+    border-radius: 8px;
 
 }
 
@@ -39,6 +39,7 @@
     border: none;
     font-weight: bold;
     margin-top: 5px;
+    border-radius: 8px;
 }
 #PRODUCT-NAME{
     font-size: 48px;
